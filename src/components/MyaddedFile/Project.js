@@ -21,11 +21,11 @@ export default function Project() {
       intro: ""
     },
     {
-      // id: 3,
-      // Name: "E-Shopify",
-      // github: 'https://github.com/Dev-the-coder/E-shopify',
-      // img: 'E-Shopify.png',
-      // Live: "https://gorgeous-kleicha-1cbf44.netlify.app/"
+      id: 3,
+      Name: "E-Shopify",
+      github: 'https://github.com/Dev-the-coder/E-shopify',
+      img: 'E-Shopify.png',
+      Live: "https://gorgeous-kleicha-1cbf44.netlify.app/"
    },
    {
     id: 8,
