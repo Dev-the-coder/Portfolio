@@ -66,7 +66,7 @@ export default function About() {
                     </tr>
                     <tr>
                         <td>Frontend</td>
-                        <td>HTML,CSS, JavaScript, Tailwind, React JS, Bootstrap</td>
+                        <td>HTML,CSS, JavaScript, Tailwind, React JS, Bootstrap, Django</td>
                     </tr>
                     <tr>
                         <td>BackEnd</td>
