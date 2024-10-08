@@ -74,11 +74,11 @@ export default function About() {
                     </tr>
                     <tr>
                         <td>Databases</td>
-                        <td>MongoDB (Mongoose), MySQL</td>
+                        <td>MongoDB, MySQL, Firestore</td>
                     </tr>
                     <tr>
                         <td>Misc</td>
-                        <td>Git, Github, VS Code</td>
+                        <td>Git, Github, Docker, Kubernetes</td>
                     </tr>
                 </table>
                 <hr className="about-separator" />

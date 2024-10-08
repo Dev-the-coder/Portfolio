@@ -11,13 +11,13 @@ export default function Home() {
     const typeSchool = 'school';
     const typeWork = 'work';
     const timelineData = [
-        // {
-        //     id: 0,
-        //     date: 'March 2022 - June 2022',
-        //     title: 'Summer Intern at UrbanReach Pvt Ltd',
-        //     subtitle: 'Software Developer',
-        //     type: typeWork,
-        // },
+        {
+            id: 0,
+            date: 'May 2024 - July 2024',
+            title: 'Summer Intern at Rimo LLC(Japan)',
+            subtitle: 'Backend Engineer Internship',
+            type: typeWork,
+        },
         {
             id: 1,
             date: 'Dec 2020 - Present',
